@@ -14,7 +14,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ContentPipelines", "Content
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SVGImport", "ContentPipeline\SVGImport\SVGImport.csproj", "{2E48CA68-BC53-4B93-8A19-A7B738CDB62A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VelcroPhysics.MonoGame1", "VelcroPhysics\VelcroPhysics.MonoGame1.csproj", "{49E14821-6543-4AB8-BB81-1EB7AAB85B04}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VelcroPhysics.MonoGame.original", "VelcroPhysics\VelcroPhysics.MonoGame.original.csproj", "{49E14821-6543-4AB8-BB81-1EB7AAB85B04}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MonoGame", "DebugViews\MonoGame\MonoGame.csproj", "{E15A7AA9-EEB9-411D-9BDD-322B8AD1789F}"
 EndProject

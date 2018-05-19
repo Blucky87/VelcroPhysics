@@ -64,9 +64,9 @@
     <None Include="Content\Font.spritefont" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\VelcroPhysics\VelcroPhysics.MonoGame.csproj">
+    <ProjectReference Include="..\..\VelcroPhysics\VelcroPhysics.MonoGame.original.csproj">
       <Project>{49e14821-6543-4ab8-bb81-1eb7aab85b04}</Project>
-      <Name>VelcroPhysics.MonoGame</Name>
+      <Name>VelcroPhysics.MonoGame.original</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
